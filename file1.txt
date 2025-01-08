@@ -1,1 +1,4 @@
-Some text
+This is just a text file
+Hey this is kessa001 adding some new features
+More features
+more features, not sure they'll work
